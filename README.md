@@ -3,6 +3,8 @@ This is the virtual calculator with voice supported
 
 This program can assist to visually  challenged and impaired people
 
+**while selecting the number you will get pronunciation of the number you selected and the result will pronounce by the speech engine**
+
 **PACKAGES:**
   - PYTTSX3
   - CVZONE
